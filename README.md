@@ -1,23 +1,18 @@
-#  🧑🏾‍💻**Miguel Carvalho**
+# 🧑🏾‍💻 Miguel Carvalho
 
 Me chamo Miguel Carvalho, tenho 22 anos e sou natural de São Carlos-SP.
 
-Atualmente cursando Engenharia de Software na UNINTER, construo soluções para o problema que você ainda não conhece.Busco soluções para facilitar a minha e a sua rotina, seja com automações ou IA.
+Atualmente cursando Engenharia de Software na UNINTER, construo soluções para o problema que você ainda não conhece. Busco soluções para facilitar a minha e a sua rotina, seja com automações ou IA.
 
-Minhas áreas de interesse: Machine Learning, Engenharia de dados, Automações, Full-Stack
+**Áreas de interesse:** Machine Learning · Engenharia de Dados · Automações · Full-Stack
 
+📧 Use [sancarvalho.miguel@email.com](mailto:sancarvalho.miguel@email.com) para colaborações, projetos ou qualquer dúvida que surgir.
 
-
-📧 Use [sancarvalho.miguel@email.com](mailto:voce@email.com) para colaborações, projetos ou qualquer dúvida que surgir 🏆
-
-
-- 🔭 *Aberto a oportunidades*
-- 🌱 *Aprendendo agora:* Desenvolvimento Full-Stack(JS, CSS, HTML, Python), banco de dados relacional (MySQL)
-- 💌 *Como falar comigo:* [sancarvalho.miguel@email.com](mailto:voce@email.com)
-- 😄 *Pronomes:* Ele/Dele
-- ⚡ *Curiosidade:* Apaixonado por música, jogos competitivos e filmes🎥
-
----
+- 🔭 Aberto a oportunidades
+- 🌱 Aprendendo agora: Desenvolvimento Full-Stack (JS, CSS, HTML, Python) e banco de dados relacional (MySQL)
+- 💌 Como falar comigo: [sancarvalho.miguel@email.com](mailto:sancarvalho.miguel@email.com)
+- 😄 Pronomes: Ele/Dele
+- ⚡ Curiosidade: apaixonado por música, jogos competitivos e filmes 🎥
 
 ## 💻 Minhas Stacks
 
